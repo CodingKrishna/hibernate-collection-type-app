@@ -1,0 +1,1 @@
+# hibernate-collection-type-app
